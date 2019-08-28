@@ -1,0 +1,1802 @@
+[
+  {
+    "StationUID": "TAO2001",
+    "StationID": "2001",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 26,
+    "AvailableReturnBikes": 32,
+    "SrcUpdateTime": "2019-08-18T15:57:37+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2002",
+    "StationID": "2002",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 24,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:21+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2003",
+    "StationID": "2003",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 40,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2004",
+    "StationID": "2004",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 83,
+    "AvailableReturnBikes": 30,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2005",
+    "StationID": "2005",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 38,
+    "AvailableReturnBikes": 38,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2006",
+    "StationID": "2006",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 26,
+    "AvailableReturnBikes": 32,
+    "SrcUpdateTime": "2019-08-18T15:57:15+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2007",
+    "StationID": "2007",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:37+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2008",
+    "StationID": "2008",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 31,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:42+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2009",
+    "StationID": "2009",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:45+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2010",
+    "StationID": "2010",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:23+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2011",
+    "StationID": "2011",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 5,
+    "AvailableReturnBikes": 25,
+    "SrcUpdateTime": "2019-08-18T15:57:35+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2012",
+    "StationID": "2012",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 34,
+    "AvailableReturnBikes": 7,
+    "SrcUpdateTime": "2019-08-18T15:57:30+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2013",
+    "StationID": "2013",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 31,
+    "AvailableReturnBikes": 48,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2014",
+    "StationID": "2014",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 23,
+    "AvailableReturnBikes": 33,
+    "SrcUpdateTime": "2019-08-18T15:57:43+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2015",
+    "StationID": "2015",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 19,
+    "AvailableReturnBikes": 29,
+    "SrcUpdateTime": "2019-08-18T15:57:21+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2016",
+    "StationID": "2016",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:16+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2017",
+    "StationID": "2017",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 19,
+    "AvailableReturnBikes": 20,
+    "SrcUpdateTime": "2019-08-18T15:57:32+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2018",
+    "StationID": "2018",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:20+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2019",
+    "StationID": "2019",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 23,
+    "SrcUpdateTime": "2019-08-18T15:57:40+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2020",
+    "StationID": "2020",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:35+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2021",
+    "StationID": "2021",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 35,
+    "AvailableReturnBikes": 30,
+    "SrcUpdateTime": "2019-08-18T15:57:41+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2022",
+    "StationID": "2022",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2023",
+    "StationID": "2023",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 30,
+    "AvailableReturnBikes": 39,
+    "SrcUpdateTime": "2019-08-18T15:57:17+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2024",
+    "StationID": "2024",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2025",
+    "StationID": "2025",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 25,
+    "AvailableReturnBikes": 35,
+    "SrcUpdateTime": "2019-08-18T15:57:49+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2026",
+    "StationID": "2026",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 30,
+    "SrcUpdateTime": "2019-08-18T15:57:26+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2027",
+    "StationID": "2027",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 37,
+    "SrcUpdateTime": "2019-08-18T15:57:17+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2028",
+    "StationID": "2028",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 25,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:36+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2029",
+    "StationID": "2029",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 23,
+    "AvailableReturnBikes": 39,
+    "SrcUpdateTime": "2019-08-18T15:57:18+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2030",
+    "StationID": "2030",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 21,
+    "AvailableReturnBikes": 17,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2031",
+    "StationID": "2031",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:39+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2032",
+    "StationID": "2032",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 40,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2033",
+    "StationID": "2033",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 41,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2034",
+    "StationID": "2034",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2035",
+    "StationID": "2035",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 31,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:30+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2036",
+    "StationID": "2036",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 16,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2037",
+    "StationID": "2037",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2038",
+    "StationID": "2038",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 19,
+    "AvailableReturnBikes": 35,
+    "SrcUpdateTime": "2019-08-18T15:57:25+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2039",
+    "StationID": "2039",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 16,
+    "SrcUpdateTime": "2019-08-18T15:57:45+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2040",
+    "StationID": "2040",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 12,
+    "SrcUpdateTime": "2019-08-18T15:57:26+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2041",
+    "StationID": "2041",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:40+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2042",
+    "StationID": "2042",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 31,
+    "AvailableReturnBikes": 35,
+    "SrcUpdateTime": "2019-08-18T15:57:21+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2043",
+    "StationID": "2043",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:39+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2044",
+    "StationID": "2044",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2045",
+    "StationID": "2045",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:47+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2046",
+    "StationID": "2046",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:40+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2047",
+    "StationID": "2047",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 24,
+    "AvailableReturnBikes": 8,
+    "SrcUpdateTime": "2019-08-18T15:57:19+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2048",
+    "StationID": "2048",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 26,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:42+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2049",
+    "StationID": "2049",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:43+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2050",
+    "StationID": "2050",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 21,
+    "AvailableReturnBikes": 20,
+    "SrcUpdateTime": "2019-08-18T15:57:42+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2051",
+    "StationID": "2051",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 10,
+    "AvailableReturnBikes": 30,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2052",
+    "StationID": "2052",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2053",
+    "StationID": "2053",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2054",
+    "StationID": "2054",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 10,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2055",
+    "StationID": "2055",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 8,
+    "AvailableReturnBikes": 32,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2056",
+    "StationID": "2056",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 28,
+    "AvailableReturnBikes": 17,
+    "SrcUpdateTime": "2019-08-18T15:57:40+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2057",
+    "StationID": "2057",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 38,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:48+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2058",
+    "StationID": "2058",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 25,
+    "AvailableReturnBikes": 23,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2059",
+    "StationID": "2059",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 29,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2060",
+    "StationID": "2060",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 43,
+    "AvailableReturnBikes": 4,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2061",
+    "StationID": "2061",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 33,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2062",
+    "StationID": "2062",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:38+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2063",
+    "StationID": "2063",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 43,
+    "SrcUpdateTime": "2019-08-18T15:57:18+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2064",
+    "StationID": "2064",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:26+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2065",
+    "StationID": "2065",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 50,
+    "AvailableReturnBikes": 17,
+    "SrcUpdateTime": "2019-08-18T15:57:42+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2066",
+    "StationID": "2066",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 31,
+    "AvailableReturnBikes": 9,
+    "SrcUpdateTime": "2019-08-18T15:57:41+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2067",
+    "StationID": "2067",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 23,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:25+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2068",
+    "StationID": "2068",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:24+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2069",
+    "StationID": "2069",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 24,
+    "AvailableReturnBikes": 10,
+    "SrcUpdateTime": "2019-08-18T15:57:21+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2070",
+    "StationID": "2070",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 24,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2071",
+    "StationID": "2071",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 23,
+    "AvailableReturnBikes": 10,
+    "SrcUpdateTime": "2019-08-18T15:57:23+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2072",
+    "StationID": "2072",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 20,
+    "AvailableReturnBikes": 16,
+    "SrcUpdateTime": "2019-08-18T15:57:30+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2073",
+    "StationID": "2073",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 21,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:45+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2074",
+    "StationID": "2074",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 38,
+    "SrcUpdateTime": "2019-08-18T15:57:28+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2075",
+    "StationID": "2075",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 21,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:43+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2076",
+    "StationID": "2076",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 16,
+    "SrcUpdateTime": "2019-08-18T15:57:17+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2077",
+    "StationID": "2077",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 26,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2078",
+    "StationID": "2078",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:43+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2079",
+    "StationID": "2079",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 20,
+    "AvailableReturnBikes": 35,
+    "SrcUpdateTime": "2019-08-18T15:57:23+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2080",
+    "StationID": "2080",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 45,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2081",
+    "StationID": "2081",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 20,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2082",
+    "StationID": "2082",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 5,
+    "AvailableReturnBikes": 31,
+    "SrcUpdateTime": "2019-08-18T15:57:43+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2083",
+    "StationID": "2083",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 35,
+    "SrcUpdateTime": "2019-08-18T15:57:21+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2084",
+    "StationID": "2084",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 19,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2085",
+    "StationID": "2085",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 20,
+    "AvailableReturnBikes": 36,
+    "SrcUpdateTime": "2019-08-18T15:57:32+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2086",
+    "StationID": "2086",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 15,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2087",
+    "StationID": "2087",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 10,
+    "SrcUpdateTime": "2019-08-18T15:57:39+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2088",
+    "StationID": "2088",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 28,
+    "AvailableReturnBikes": 11,
+    "SrcUpdateTime": "2019-08-18T15:57:35+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2089",
+    "StationID": "2089",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 7,
+    "AvailableReturnBikes": 33,
+    "SrcUpdateTime": "2019-08-18T15:57:20+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2090",
+    "StationID": "2090",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 8,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:37+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2091",
+    "StationID": "2091",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:40+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2092",
+    "StationID": "2092",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:43+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2093",
+    "StationID": "2093",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:26+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2094",
+    "StationID": "2094",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 1,
+    "AvailableReturnBikes": 37,
+    "SrcUpdateTime": "2019-08-18T15:57:18+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2095",
+    "StationID": "2095",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 10,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:18+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2096",
+    "StationID": "2096",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 20,
+    "AvailableReturnBikes": 12,
+    "SrcUpdateTime": "2019-08-18T15:57:26+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2097",
+    "StationID": "2097",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 6,
+    "SrcUpdateTime": "2019-08-18T15:57:23+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2098",
+    "StationID": "2098",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:25+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2099",
+    "StationID": "2099",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 9,
+    "AvailableReturnBikes": 30,
+    "SrcUpdateTime": "2019-08-18T15:57:36+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2100",
+    "StationID": "2100",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 40,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2101",
+    "StationID": "2101",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2102",
+    "StationID": "2102",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:38+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2103",
+    "StationID": "2103",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:15+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2104",
+    "StationID": "2104",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 9,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:41+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2105",
+    "StationID": "2105",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:19+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2106",
+    "StationID": "2106",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 10,
+    "AvailableReturnBikes": 23,
+    "SrcUpdateTime": "2019-08-18T15:57:28+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2107",
+    "StationID": "2107",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 8,
+    "AvailableReturnBikes": 26,
+    "SrcUpdateTime": "2019-08-18T15:57:43+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2108",
+    "StationID": "2108",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:33+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2109",
+    "StationID": "2109",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 29,
+    "SrcUpdateTime": "2019-08-18T15:57:28+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2110",
+    "StationID": "2110",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:40+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2111",
+    "StationID": "2111",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 29,
+    "AvailableReturnBikes": 10,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2112",
+    "StationID": "2112",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:37+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2113",
+    "StationID": "2113",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 23,
+    "SrcUpdateTime": "2019-08-18T15:57:15+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2114",
+    "StationID": "2114",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 19,
+    "AvailableReturnBikes": 17,
+    "SrcUpdateTime": "2019-08-18T15:57:36+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2115",
+    "StationID": "2115",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:20+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2116",
+    "StationID": "2116",
+    "ServieAvailable": 0,
+    "AvailableRentBikes": 0,
+    "AvailableReturnBikes": 0,
+    "SrcUpdateTime": "2019-08-09T17:59:30+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2117",
+    "StationID": "2117",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 6,
+    "AvailableReturnBikes": 33,
+    "SrcUpdateTime": "2019-08-18T15:57:39+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2118",
+    "StationID": "2118",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:43+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2119",
+    "StationID": "2119",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 23,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2120",
+    "StationID": "2120",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 20,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:39+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2121",
+    "StationID": "2121",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 26,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2122",
+    "StationID": "2122",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 9,
+    "AvailableReturnBikes": 31,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2123",
+    "StationID": "2123",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 31,
+    "AvailableReturnBikes": 15,
+    "SrcUpdateTime": "2019-08-18T15:57:33+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2124",
+    "StationID": "2124",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 6,
+    "AvailableReturnBikes": 29,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2125",
+    "StationID": "2125",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:41+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2126",
+    "StationID": "2126",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2127",
+    "StationID": "2127",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:24+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2128",
+    "StationID": "2128",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2129",
+    "StationID": "2129",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2130",
+    "StationID": "2130",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:23+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2131",
+    "StationID": "2131",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 10,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:35+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2132",
+    "StationID": "2132",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:36+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2133",
+    "StationID": "2133",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2134",
+    "StationID": "2134",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 1,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:33+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2135",
+    "StationID": "2135",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 6,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:41+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2136",
+    "StationID": "2136",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 9,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:33+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2137",
+    "StationID": "2137",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 23,
+    "SrcUpdateTime": "2019-08-18T15:57:16+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2138",
+    "StationID": "2138",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:25+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2139",
+    "StationID": "2139",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 10,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:30+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2140",
+    "StationID": "2140",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 32,
+    "AvailableReturnBikes": 26,
+    "SrcUpdateTime": "2019-08-18T15:57:36+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2141",
+    "StationID": "2141",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:21+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2142",
+    "StationID": "2142",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 19,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:17+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2143",
+    "StationID": "2143",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:23+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2144",
+    "StationID": "2144",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 8,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2145",
+    "StationID": "2145",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2146",
+    "StationID": "2146",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 10,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2147",
+    "StationID": "2147",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2148",
+    "StationID": "2148",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 23,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:33+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2149",
+    "StationID": "2149",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2150",
+    "StationID": "2150",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 29,
+    "SrcUpdateTime": "2019-08-18T15:57:45+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2151",
+    "StationID": "2151",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 23,
+    "AvailableReturnBikes": 9,
+    "SrcUpdateTime": "2019-08-18T15:57:35+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2152",
+    "StationID": "2152",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:25+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2153",
+    "StationID": "2153",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 12,
+    "SrcUpdateTime": "2019-08-18T15:57:27+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2154",
+    "StationID": "2154",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:46+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2155",
+    "StationID": "2155",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 20,
+    "AvailableReturnBikes": 17,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2156",
+    "StationID": "2156",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 27,
+    "AvailableReturnBikes": 37,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2157",
+    "StationID": "2157",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 20,
+    "SrcUpdateTime": "2019-08-18T15:56:17+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2158",
+    "StationID": "2158",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2159",
+    "StationID": "2159",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 13,
+    "SrcUpdateTime": "2019-08-18T15:57:26+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2160",
+    "StationID": "2160",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 25,
+    "SrcUpdateTime": "2019-08-18T15:57:42+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2161",
+    "StationID": "2161",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:28+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2162",
+    "StationID": "2162",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 32,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:38+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2163",
+    "StationID": "2163",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:23+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2164",
+    "StationID": "2164",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 26,
+    "SrcUpdateTime": "2019-08-18T15:57:26+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2165",
+    "StationID": "2165",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 20,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2166",
+    "StationID": "2166",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 4,
+    "AvailableReturnBikes": 29,
+    "SrcUpdateTime": "2019-08-18T15:57:32+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2167",
+    "StationID": "2167",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 17,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2168",
+    "StationID": "2168",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 10,
+    "AvailableReturnBikes": 24,
+    "SrcUpdateTime": "2019-08-18T15:57:16+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2169",
+    "StationID": "2169",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 27,
+    "SrcUpdateTime": "2019-08-18T15:57:33+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2170",
+    "StationID": "2170",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:39+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2171",
+    "StationID": "2171",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 17,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2172",
+    "StationID": "2172",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 25,
+    "AvailableReturnBikes": 35,
+    "SrcUpdateTime": "2019-08-18T15:57:36+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2173",
+    "StationID": "2173",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:30+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2174",
+    "StationID": "2174",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 12,
+    "AvailableReturnBikes": 30,
+    "SrcUpdateTime": "2019-08-18T15:57:29+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2175",
+    "StationID": "2175",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 7,
+    "AvailableReturnBikes": 29,
+    "SrcUpdateTime": "2019-08-18T15:57:18+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2176",
+    "StationID": "2176",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 25,
+    "SrcUpdateTime": "2019-08-18T15:57:39+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2177",
+    "StationID": "2177",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:41+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2178",
+    "StationID": "2178",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 6,
+    "AvailableReturnBikes": 25,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2179",
+    "StationID": "2179",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:42+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2180",
+    "StationID": "2180",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 24,
+    "AvailableReturnBikes": 12,
+    "SrcUpdateTime": "2019-08-18T15:57:37+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2181",
+    "StationID": "2181",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 11,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:44+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2182",
+    "StationID": "2182",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 9,
+    "AvailableReturnBikes": 12,
+    "SrcUpdateTime": "2019-08-18T15:57:38+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2183",
+    "StationID": "2183",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 4,
+    "AvailableReturnBikes": 33,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2184",
+    "StationID": "2184",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 22,
+    "AvailableReturnBikes": 35,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2185",
+    "StationID": "2185",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:28+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2186",
+    "StationID": "2186",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 15,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2201",
+    "StationID": "2201",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 18,
+    "AvailableReturnBikes": 19,
+    "SrcUpdateTime": "2019-08-18T15:57:25+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2202",
+    "StationID": "2202",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:18+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2203",
+    "StationID": "2203",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 26,
+    "SrcUpdateTime": "2019-08-18T15:57:16+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2204",
+    "StationID": "2204",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 8,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:21+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2205",
+    "StationID": "2205",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 16,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:22+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2206",
+    "StationID": "2206",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 17,
+    "SrcUpdateTime": "2019-08-18T15:57:40+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2207",
+    "StationID": "2207",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 19,
+    "AvailableReturnBikes": 18,
+    "SrcUpdateTime": "2019-08-18T15:57:18+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2208",
+    "StationID": "2208",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 14,
+    "SrcUpdateTime": "2019-08-18T15:57:33+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2209",
+    "StationID": "2209",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 28,
+    "SrcUpdateTime": "2019-08-18T15:57:17+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2210",
+    "StationID": "2210",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 7,
+    "AvailableReturnBikes": 26,
+    "SrcUpdateTime": "2019-08-18T15:57:34+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2211",
+    "StationID": "2211",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 15,
+    "AvailableReturnBikes": 21,
+    "SrcUpdateTime": "2019-08-18T15:57:17+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2212",
+    "StationID": "2212",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 13,
+    "AvailableReturnBikes": 35,
+    "SrcUpdateTime": "2019-08-18T15:57:30+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2213",
+    "StationID": "2213",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 5,
+    "AvailableReturnBikes": 22,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  },
+  {
+    "StationUID": "TAO2214",
+    "StationID": "2214",
+    "ServieAvailable": 1,
+    "AvailableRentBikes": 14,
+    "AvailableReturnBikes": 20,
+    "SrcUpdateTime": "2019-08-18T15:57:31+08:00",
+    "UpdateTime": "2019-08-18T16:01:21+08:00"
+  }
+]

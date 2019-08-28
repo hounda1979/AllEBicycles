@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AllEBicycles</string>
+    <string name="title_activity_bicycles_maps">BicycleMap</string>
+</resources>
